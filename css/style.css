@@ -9,6 +9,7 @@ body {overflow: auto; overflow-y: auto;
   margin: 0px;}
 
 #jeeFaceFilterCanvas {
+  border:2px solid black;
   z-index: 10;
   position: absolute; 
   max-height: 60%;
